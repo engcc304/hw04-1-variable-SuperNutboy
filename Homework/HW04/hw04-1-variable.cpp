@@ -12,5 +12,5 @@ char c[] = "Haha" ;
 char d = 'a' ;
 
 int main(){
-printf( "%d %0.1f %s %c", a, b, c, d) ; //TODO: #10 Display variable a, b, c and d.
+    printf( "%d %0.1f %s %c", a, b, c, d) ; //TODO: #10 Display variable a, b, c and d.
 }
